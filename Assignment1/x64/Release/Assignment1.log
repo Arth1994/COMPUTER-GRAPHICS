@@ -1,0 +1,19 @@
+﻿  main.cpp
+c:\users\arths\onedrive - the university of texas at dallas\desktop\ut dallas\coursework\computer graphics\assignments\assignment1\assignment1\view.h(120): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\arths\onedrive - the university of texas at dallas\desktop\ut dallas\coursework\computer graphics\assignments\assignment1\assignment1\view.h(207): warning C4305: 'argument': truncation from 'int' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\arths\onedrive - the university of texas at dallas\desktop\ut dallas\coursework\computer graphics\assignments\assignment1\assignment1\shaderhelper.h(61): warning C4101: 'info_log': unreferenced local variable
+c:\users\arths\onedrive - the university of texas at dallas\desktop\ut dallas\coursework\computer graphics\assignments\assignment1\assignment1\main.cpp(130): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+c:\users\arths\onedrive - the university of texas at dallas\desktop\ut dallas\coursework\computer graphics\assignments\assignment1\assignment1\main.cpp(134): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+c:\users\arths\onedrive - the university of texas at dallas\desktop\ut dallas\coursework\computer graphics\assignments\assignment1\assignment1\main.cpp(138): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  0 of 2513 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'C:\Users\arths\OneDrive - The University of Texas at Dallas\Desktop\UT Dallas\COURSEWORK\COMPUTER GRAPHICS\ASSIGNMENTS\Assignment1\x64\Release\vc120.pdb'; linking object as if no debug info
+  Assignment1.vcxproj -> C:\Users\arths\OneDrive - The University of Texas at Dallas\Desktop\UT Dallas\COURSEWORK\COMPUTER GRAPHICS\ASSIGNMENTS\Assignment1\x64\Release\Assignment1.exe
